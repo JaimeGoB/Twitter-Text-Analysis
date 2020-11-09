@@ -54,5 +54,5 @@ Once these variables have been properly overwritten you can run the entire progr
 <img src="https://github.com/JaimeGoB/Twitter-Text-Analysis/blob/main/data/date.png" length = 1000 width="600"/>
 
 
-## Different Class Labels, Entity recognized from tweet and count of entity after 10 minute time interval 
+## Different Entity Labels, Entity recognized from tweet and count of entity after 10 minute time interval 
 <img src="https://github.com/JaimeGoB/Twitter-Text-Analysis/blob/main/data/10min.png" length = 1000 width="600"/>
