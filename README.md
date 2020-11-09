@@ -6,7 +6,7 @@ https://github.com/JaimeGoB/Twitter-Text-Analysis/blob/main/README.md
 
 This program can be run one cell at a time. However, there are some variables to must be overwritten before you can run the rest of the program
 
-However, before running the entire program these variables in bold must be overwritten. 
+**Before running the entire program these variables in bold must be overwritten. **
 
 
 ## Setting up API Variables
