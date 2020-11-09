@@ -1,5 +1,7 @@
 # Twitter-Text-Analysis
 
+https://github.com/JaimeGoB/Twitter-Text-Analysis/blob/main/README.md
+
 # How to run the program:
 
 This program can be run one cell at a time. However, there are some variables to must be overwritten before you can run the rest of the program
